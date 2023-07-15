@@ -1,0 +1,37 @@
+tbody {
+    /* background-color: rgb(68, 174, 232); */
+    color: yellow;
+}
+
+thead {
+    background-color: orange;
+    color: rgb(57, 51, 16);
+}
+
+#button {
+    margin-left: 1px;
+    background-color: red;
+    color: aliceblue;
+
+
+}
+
+#submit {
+    margin-left: 90px;
+    background-color: green;
+    color: aliceblue
+}
+
+tfoot {
+    background-color: orange;
+}
+
+table {
+    background-color: rgb(68, 174, 232);
+    border-spacing: 20px;
+   
+}
+
+.birth select {
+    padding-right: 10px;
+}

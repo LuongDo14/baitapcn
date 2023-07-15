@@ -1,0 +1,19 @@
+table{
+    border-style: double;
+}
+.button{
+    padding: 10px 30px;
+    padding-inline: 30px;
+    margin-left: 10px;
+
+}
+tr{
+    background-color:deepskyblue;
+}
+th{
+    background-color:yellow;
+}
+.address{
+    padding: 15px;
+    padding-left: 10px;
+}
